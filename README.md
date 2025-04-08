@@ -24,3 +24,7 @@
 
 4. **Упакуйте результаты в презентацию.**  
    ❗️**Важно:** не более **2–3 слайдов**
+
+#### Решение на Miro (лучше качество)
+
+[Miro](https://miro.com/app/board/uXjVIL_ZQiE=/?shareablePresentation=1)
